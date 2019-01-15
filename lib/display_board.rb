@@ -3,7 +3,7 @@ def display_board(board)
       "#{board[3]} | #{board[4]} | #{board[5]}"
       "#{board[6]} | #{board[7]} | #{board[8]}"
 end
-#board = [" "," "," "," "," "," "," "," "," "]
 
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+board = [" "," "," "," "," "," "," "," "," "]
+
 display_board(board)
